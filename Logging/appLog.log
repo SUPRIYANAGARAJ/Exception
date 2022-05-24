@@ -1,0 +1,20 @@
+2022-05-24 10:14:55,986 [INFO] com.example.demo.LoggingApplication [main] Starting LoggingApplication using Java 13.0.10 on INBLRGVE120W59H with PID 412 (C:\Users\252000\Documents\newWorkSpace\Logging\target\classes started by 252000 in C:\Users\252000\Documents\newWorkSpace\Logging)
+2022-05-24 10:14:55,987 [DEBUG] com.example.demo.LoggingApplication [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-24 10:14:55,988 [INFO] com.example.demo.LoggingApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-24 10:14:56,658 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-05-24 10:14:56,665 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-05-24 10:14:56,671 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-24 10:14:56,755 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-05-24 10:14:56,755 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 735 ms
+2022-05-24 10:14:57,189 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-24 10:14:57,197 [INFO] com.example.demo.LoggingApplication [main] Started LoggingApplication in 1.458 seconds (JVM running for 2.067)
+2022-05-24 10:15:10,760 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-24 10:15:10,762 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-24 10:15:10,762 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2022-05-24 10:15:10,793 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2022-05-24 10:15:12,449 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2022-05-24 10:15:13,231 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2022-05-24 10:15:13,402 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2022-05-24 10:15:13,565 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2022-05-24 10:15:13,782 [TRACE] com.example.demo.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2022-05-24 10:18:53,472 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(6)-127.0.0.1] Application shutdown requested.
